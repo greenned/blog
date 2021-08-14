@@ -23,8 +23,8 @@ icon = "github"
 url = "https://github.com/greenned"
 
 [[params.social]]
-name = "Linkedin"
-icon = "Linkedin"
+name = "linkedin"
+icon = "linkedin"
 url = "https://www.linkedin.com/in/sungmin-yoon-126293a9/"
 
 
